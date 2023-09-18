@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # Configure your OpenAI API key
-openai.api_key = "OPEN_API_KEY"
+openai.api_key = "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"
 
 # Function to transcribe audio using OpenAI API
 
